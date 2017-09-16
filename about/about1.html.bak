@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+ 
+  <title>道卓投资</title>
+	<meta charset="UTF-8">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+   <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="../css/style.css">
+<script type="text/javascript" src="../bootstrap/js/jquery-2.1.1.min.js"></script>
+  <script src="../bootstrap/js/bootstrap.js"></script>
+  
+ </head>
+
+ <body>
+ <div class="">
+  
+	  <div class="top container">
+		  <div class="logo">
+		  	<img src='../images/dzlogo.png'>
+		  </div>
+		  <div class="nav">
+			  <ul class="nav nav-pills">
+		   <li ><a href="../index.html">首页</a></li>
+		   <li class="active"><a href="../about.html">公司介绍</a></li>
+		 <li><a href="../pro.html">业务介绍</a></li>
+		
+		   <li><a href="../com/com.html">大赛相关</a></li>
+		 
+		   <li><a href="../fri.html">合作机构</a></li>
+		</ul>
+		</div>
+	</div>
+	
+	<div id="myCarousel" class="carousel slide container">
+  
+   <!-- 轮播（Carousel）项目 -->
+   <div class="carousel-inner">
+      <div class="item active">
+         <img src="../images/b9.png" alt="First slide" style="" >
+        <!--   <div class="carousel-caption">标题 1</div>-->
+      </div>    
+   </div>
+   
+</div> 
+  
+  <div class="container about">
+    <div class="row">
+      <div class=" col-sm-4">
+		      <div class="panel panel-default" style="">
+		   <div class="panel-heading">
+		      <h3 class="panel-title">
+		         关于道卓<span style="color:#aaa;font-size:14px;">&nbsp; &nbsp;ABOUT US</span>
+		      </h3>
+		   </div>
+		  <a href="../about.html" class="list-group-item ">
+  公司介绍
+</a>
+<a href="about5.html" class="list-group-item ">  投资业务</a>
+<a href="about1.html" class="list-group-item active">  市场定位</a>
+<a href="about3.html" class="list-group-item">  公司宗旨</a>
+<a href="about2.html" class="list-group-item">  投资领域</a>
+		</div>
+      </div>
+     
+      <div class="col-sm-8">
+      <div class="panel panel-default min-panel">
+   
+   <div class="panel-body">
+    	<div class="pos"> 当前位置：<a href="../index.html">首页</a> > 公司介绍</div>
+  
+ 
+
+ <div class="page-header">
+   <h1  id="section-3">  市场定位
+      <small></small>
+   </h1>
+</div>
+     <p>专注于服务中国中小企业的投资公司</p>
+
+
+
+   </div>
+</div>
+   </div>
+</div>
+</div>
+  
+  
+  </div>
+  
+  <div class="footer container">
+   <div class="f1 text-center">版权所有＠DAOZUO 道卓投资</div>
+  </div>
+  
+  
+  </div>
+ </body>
+</html>

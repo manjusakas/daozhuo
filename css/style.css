@@ -1,0 +1,145 @@
+body{
+	font-size:12px;
+}
+a{
+	color:#000000;
+}
+a:hover{
+	text-decoration:none;
+}
+ul{
+	list-style:none;
+}
+
+
+.container{
+	width:980px;
+}
+.top{
+	height:120px;
+}
+.logo{
+	margin-top:23px;
+	
+	float:left;
+	
+}
+.logo img{
+	width:120px;
+	margin-left:0px;
+}
+.nav{
+	width:430px;
+	float:right;
+	margin-top:20px;
+	font-size:13px;
+	font-weight:bold;
+	
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+	background-color:#E62129;
+}
+.carousel{
+	margin-bottom:20px;
+	
+}
+.carousel-indicators{
+	bottom:0px;
+}
+.row{
+	
+}
+.panel{
+	border:1px solid #FCFCFC;
+
+}
+.panel-default > .panel-heading{
+	border-color:#ffffff;
+}
+.panel-title{
+	color:#E62129;
+	font-weight:bold;
+}
+.two-panel .panel-title{
+	color:#555;
+	font-weight:normal;
+	font-size:12px;
+}
+.panel-body{
+	line-height:25px;
+	color:#757475;
+}
+.panel-group{
+	margin-bottom:0px;
+}
+.min-panel{
+	min-height:440px;
+}
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus{
+	background-color:#f5f5f5;
+	color:#555;
+}
+.list-group-item{
+	border:0px;
+}
+.index-img{
+	float:left;
+	height:60px;
+	margin:10px 20px;
+	
+}
+.h3{
+	padding-top:20px;
+	
+}
+.footer{
+	height:80px;
+	background-color:#F5F5F5;
+	
+}
+.f1{
+	
+	margin-top:30px;
+}
+.f2{
+	float:right;
+	margin-top:30px;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+	border-color:#fff;
+}
+
+.about ul {
+	
+	width:100%;
+	margin-top:0px;
+}
+.fri-img img{
+	border:1px solid #ccc;
+	height:66px;
+	margin-right:16px;
+	margin-bottom:12px;
+}
+.nav-tabs {
+	border-bottom:0px;	 
+}
+ ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover{
+        color: #fff;
+        background: #0088cc;
+        border: 1px solid #0088cc;
+    }
+ .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{display:inline-table;margin-left:0px;}
+*html .clearfix{height:1%}
+.clearfix{display:block}   
+.ny_zblb1{padding:0px;margin:0px;}
+.ny_zblb1 li{line-height:33px;font-size:12px;color:#333;float:left;width:100%;border-top:1px solid #eee;}
+.ny_zblb1 li a{padding:0px 20px;display:block;text-decoration:none;color:#333;background:url(../images/off.png) no-repeat right;}
+.ny_zblb1 li a.cur{
+	color:#555;background:url(../images/on.png) no-repeat right;background-color:#f5f5f5;text-decoration:none;}
+
+.ny_zblb1 li ul{display:none;color:#666;padding:5px 0 0px 10px;}
+.ny_zblb1 li ul li{border-top:0px solid #eee;float:none;background-image:none;margin-top:0px;font-size:12px;}
+.ny_zblb1 li ul li a{padding:0px 20px;display:block;background:url(../images/05.gif) no-repeat left;}
+.ny_zblb1 li ul a:hover{color:#aaa;}
